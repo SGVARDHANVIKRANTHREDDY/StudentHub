@@ -1,14 +1,15 @@
 // Firebase configuration
 // Replace with your Firebase project config from Firebase Console
 const firebaseConfig = {
-  apiKey: "AIzaSyCnT_SKw5Y3XmSLIbAyLm4CY12Nq4K84iA",
-  authDomain: "studenthub-9077a.firebaseapp.com",
-  projectId: "studenthub-9077a",
-  storageBucket: "studenthub-9077a.firebasestorage.app",
-  messagingSenderId: "583648668434",
-  appId: "1:583648668434:web:1a6ed1f430468d8615e1cb",
-  measurementId: "G-BFPNSCKLKY"
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
+  measurementId: "YOUR_MEASUREMENT_ID",
 };
+
 
 // Initialize Firebase
 import { initializeApp } from 'firebase/app';
