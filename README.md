@@ -297,9 +297,9 @@ node -v
 - Real-world problem solving (campus marketplace + tuckshop)
 - Professional code organization
 
-**All code is tested, dependencies are compatible, and the app is ready for submission!** 🎉
+**All code is tested, dependencies are compatible, and the app is ready** 🎉
 
 ---
 
-**Built with ❤️ for your hackathon**
+**Built with**
 **React Native CLI | Firebase | Campus-First Privacy**
